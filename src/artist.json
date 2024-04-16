@@ -1,0 +1,34 @@
+{
+  "name": "Purple Cat",
+  "albumCover": "/images/albumCovers/LoFiAlbumCover.jpg",
+  "releaseYear": "2024",
+  "tracks": [
+    {
+      "id": 1,
+      "name": "Heart Of The Ocean",
+      "path": "/songs/HeartOfTheOcean.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Lost and Found",
+      "path": "/songs/LostAndFound.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Silent Wood",
+      "path": "/songs/SilentWood.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Storm Clouds",
+      "path": "/songs/StormClouds.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Wanted",
+      "path": "/songs/Wanted.mp3"
+    }
+    
+    
+  ]
+}
